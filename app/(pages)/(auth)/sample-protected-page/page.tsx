@@ -3,7 +3,7 @@
 export default function Page() {
   return (
     <div>
-      <h1>Research</h1>
+      <h1>Sample Protected Page</h1>
     </div>
   )
 }
