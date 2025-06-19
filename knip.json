@@ -1,0 +1,16 @@
+{
+  "entry": [
+    "app/**/{page,layout,loading,error,not-found,template,default}.{js,jsx,ts,tsx}",
+    "app/api/**/route.{js,ts}",
+    "actions/**/*.{js,ts}",
+    "components/**/*.{js,jsx,ts,tsx}",
+    "hooks/**/*.{js,jsx,ts,tsx}",
+    "lib/**/*.{js,jsx,ts,tsx}",
+    "pages/**/*.{js,jsx,ts,tsx}",
+    "public/**/*.{js,jsx,ts,tsx}",
+    "types/**/*.{js,jsx,ts,tsx}",
+    "convex/**/*.{js,ts}",
+    "utils/**/*.{js,ts}"
+  ],
+  "project": ["**/*.{js,jsx,ts,tsx}!"]
+}
